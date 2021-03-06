@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
+  - text: Spotify
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
+  - text: Youtube
     url: "#"
   - text: Blog
-    url: "/blog"
+    url: /blog
