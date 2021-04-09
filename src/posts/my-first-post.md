@@ -1,60 +1,23 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: Namaste, Wilkommen, Huanying to the Human Experiment Blog!
+description: Welcome, intro to The HEX blog
+author: Rajiv Menon
+date: 2021-04-07T13:00:00.000Z
 tags:
-  - left
-  - center
-  - right
+  - Tags
 ---
-# This is a Heading h1
+# Welcome to The HEX Blog!
 
-## This is a Heading h2
+To all the seekers, the growers, the curious and the accidental link clickers - I bid you welcome. This blog is a complement to The Human Experiment Podcast - hosted by myself - Rajiv Menon - and my good friend Jacques Fu. We are a couple of seekers too - trying to find meaning, learning as we go and making as much of an impact as we can prior to our [impending death](https://en.wikipedia.org/wiki/Memento_mori). 
 
-###### This is a Heading h6
+This blog will contain further expositions, links to resources, random thoughts related to some of the topics that are covered in our podcasts. As you will see, we cover a lot of topics related to philosophy, mental models, current events, psychology, politics, decision-making, mindset, science, etc. 
 
-## Emphasis
+## A gentle reminder while you are here
 
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+> **[The obstacle is the way](https://en.wikipedia.org/wiki/The_Obstacle_Is_the_Way).** 
 >
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+> Whatever you are struggling with, whatever you feel is preventing you from reaching your full potential, **that thing** is the ladder you must climb to become the true you. Therefore - Ascend, fellow space monkey! Lean in accept the mission you were given and [smile](https://www.youtube.com/watch?v=rzPNzJRe1kk). :) 
 
-## Inline code
+So please stay, explore, and visit us again soon for more posts, interviews and resources on our common journey as humans - collectively experimenting with our capabilities while being experimented on by the circumstances in our lives. 
 
-This web site is using `markedjs/marked`.
+Cheers!
