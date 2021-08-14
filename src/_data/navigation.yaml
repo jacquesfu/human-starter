@@ -1,4 +1,6 @@
 items:
+  - text: Home
+    url: "/"
   - text: Spotify
     url: "#"
   - text: Youtube
